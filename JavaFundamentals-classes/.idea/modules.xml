@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaFundamentals-classes.iml" filepath="$PROJECT_DIR$/JavaFundamentals-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithStaticAndFinalVariables/classesWithStaticAndFinalVariables.iml" filepath="$PROJECT_DIR$/classesWithStaticAndFinalVariables/classesWithStaticAndFinalVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedClasses/nestedClasses.iml" filepath="$PROJECT_DIR$/nestedClasses/nestedClasses.iml" />
+    </modules>
+  </component>
+</project>
